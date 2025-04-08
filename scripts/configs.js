@@ -45,7 +45,7 @@ function buildConfigURL(environment) {
       if (getAemAuthorEnv()) {
         // eslint-disable-next-line no-use-before-define
         const aemContentPath = getAemContentPath();
-        return new URL(`${window.location.origin}${aemContentPath}/${fileName.replace(".json", ".hxl.json")}`);
+        return new URL(`${window.location.origin}${aemContentPath}/${fileName.replace(".json", ".hlx.json")}`);
       }
       const configURL = new URL(`${window.location.origin}/${fileName}`);
       return configURL;  
