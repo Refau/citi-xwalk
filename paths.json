@@ -3,7 +3,7 @@
       "/content/citi-xwalk/:/",
       "/content/citi-xwalk/configuration:/.helix/config.json",
       "/content/citi-xwalk/metadata:/metadata.json",
-      "/content/citi-xwalk/configs:/content/configs.json",
+      "/content/citi-xwalk/configs:/configs.json",
       "/content/citi-xwalk/configs-stage:/configs-stage.json",
       "/content/citi-xwalk/configs-dev:/configs-dev.json",
       "/content/citi-xwalk/redirects:/redirects.json",
